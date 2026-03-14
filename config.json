@@ -1,0 +1,112 @@
+{
+  "profile": {
+    "name": "Pravallika Mutyala",
+    "title": "Apigee Developer | API Management (Apigee X/Edge)",
+    "experience": "2.5 years",
+    "summary": "Apigee Developer with 2.5 years of experience building and supporting API proxies, shared flows, security policies, CI/CD deployments, and production troubleshooting. Prior experience includes Linux application support and banking back-office operations.",
+    "focusAreas": [
+      "Apigee X / Edge",
+      "OAuth 2.0 / JWT",
+      "API Security",
+      "CI/CD",
+      "REST / JSON / XML"
+    ],
+    "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=900&q=80"
+  },
+  "highlights": [
+    {
+      "title": "API Proxy Development",
+      "description": "Built and maintained Apigee API proxies and shared flows for internal and partner integrations with standardized error handling."
+    },
+    {
+      "title": "Security & Governance",
+      "description": "Worked on OAuth 2.0, JWT validation, API key verification, CORS, and header enforcement for secure API consumption."
+    },
+    {
+      "title": "Production Support",
+      "description": "Handled request tracing, log analysis, runbook updates, and resiliency controls such as Quota, Spike Arrest, caching, and retries."
+    }
+  ],
+  "skills": [
+    { "name": "Apigee", "level": 90 },
+    { "name": "API Security", "level": 86 },
+    { "name": "CI/CD", "level": 80 },
+    { "name": "Linux Support", "level": 72 },
+    { "name": "Postman / curl / OpenAPI", "level": 82 }
+  ],
+  "experience": [
+    {
+      "company": "Fedserv",
+      "role": "Apigee Developer (API Management)",
+      "period": "Aug 2023 - Present",
+      "points": [
+        "Developed and maintained Apigee API proxies and shared flows for internal and partner integrations.",
+        "Implemented OAuth 2.0 and JWT validation, API key verification, enforced headers, and CORS policies.",
+        "Applied Spike Arrest, Quota, caching, timeouts, and retries to protect downstream services.",
+        "Supported production issues via request tracing and log analysis; documented fixes and improved runbooks."
+      ]
+    },
+    {
+      "company": "Fedserv",
+      "role": "Support Engineer (Linux / Application Support)",
+      "period": "Oct 2022 - Jul 2023",
+      "points": [
+        "Provided L1/L2 support including log analysis, configuration validation, and incident triage.",
+        "Performed Linux troubleshooting around processes, disk, memory, network, and certificate investigations."
+      ]
+    },
+    {
+      "company": "Fedserv",
+      "role": "Support Executive / Process Executive",
+      "period": "Oct 2021 - Sep 2022",
+      "points": [
+        "Performed KYC checks and account quality validations during customer onboarding.",
+        "Conducted AML investigations and supported Trade Finance operations including Letters of Credit and SWIFT/SFMS handling."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "tag": "Apigee",
+      "title": "API Management & Shared Flows",
+      "description": "Maintained reusable shared flows, target servers, and fault handling across API integrations.",
+      "link": ""
+    },
+    {
+      "tag": "Security",
+      "title": "OAuth 2.0 / JWT Policies",
+      "description": "Implemented authentication and validation layers for secure API access patterns.",
+      "link": ""
+    },
+    {
+      "tag": "Operations",
+      "title": "Incident Troubleshooting",
+      "description": "Used trace and log analysis to resolve production issues and reduce turnaround time for incidents.",
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institute": "Andhra University",
+      "year": "2022 - 2024"
+    },
+    {
+      "degree": "B.Sc (Computer Specialisation)",
+      "institute": "Chaitanya Women's College, Visakhapatnam",
+      "year": "2018 - 2021"
+    }
+  ],
+  "contact": {
+    "email": "mutyalapravallika123@gmail.com",
+    "phone": "+91 9392416105",
+    "location": "Gajuwaka, Visakhapatnam",
+    "resumeUrl": "#",
+    "pitch": "I am currently open to Apigee Developer and API management roles. This portfolio is driven by a single config file, so you can update it quickly without touching the React components."
+  },
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com/" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/" },
+    { "label": "Email", "url": "mailto:mutyalapravallika123@gmail.com" }
+  ]
+}
